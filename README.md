@@ -9,7 +9,6 @@ Simple web panel in php which takes as a parameter with POST requests send to ap
 # How used it
 - Lanch a attack with parameter on panel.
 <img src="https://cdn.discordapp.com/attachments/758355912426782762/826547543508385832/unknown.png" alt="" />
-- Start the attack : 
 <img src="https://cdn.discordapp.com/attachments/758355912426782762/826547954801180692/unknown.png" alt="" />
 
 I clearly specify that I am in no way responsible for your actions and that I offer this tool developed by me for educational purposes only.

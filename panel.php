@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="fr">
+<title>Basic Panel Stresser</title>
+<meta charset="UTF-8">
+
 <form id="hubAttack" action="attackAPI.php" method="post">
     <center>
         <div class="hub">
